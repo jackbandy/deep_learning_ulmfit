@@ -2,7 +2,7 @@
 Group project for deep learning, replication for "Universal Language Model Fine-tuning for Text Classification" https://arxiv.org/pdf/1801.06146.pdf
 
 ## Milestones
-- [ ] Gather resources and set up repo (Week of April 20)
+- [x] Gather resources and set up repo (Week of April 20)
 - [ ] Milestone 2 (Week of April 27)
 - [ ] Milestone 3 (Week of May 4)
 - [ ] Milestone 4 (Week of May 11)
