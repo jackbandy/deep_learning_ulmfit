@@ -4,6 +4,8 @@ Group project for deep learning, replication for "Universal Language Model Fine-
 
 ## Resources
 * FastAI's ULMFiT website: http://nlp.fast.ai/category/classification.html
+* Video tutorial by one of the authors: https://www.youtube.com/watch?v=vnOpEwmtFJ8&feature=youtu.be&t=4511
+* Scripts for IMDB tasks in the paper/video: https://github.com/fastai/fastai/tree/master/courses/dl2/imdb_scripts
 
 ## Reproducibility info:
 | Feature                     | Value               |
