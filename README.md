@@ -1,6 +1,15 @@
 # deep_learning_ulmfit
 Group project for deep learning, replication for "Universal Language Model Fine-tuning for Text Classification" https://arxiv.org/pdf/1801.06146.pdf
 
+## Main Goals
+* Get (some of) the datasets
+* Separate "library" building blocks from tests and experiment code
+* Stand up the eval pipeline
+* Get bad scores on an untrained model
+* Get scores on a pretrained model
+* Reproduce last row of table 3 with AG
+* Table 4,5,6,7 "would be cool"
+
 ## Milestones
 - [x] Gather resources and set up repo (Week of April 20)
 - [ ] Milestone 2 (Week of April 27)
