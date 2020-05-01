@@ -14,12 +14,28 @@ Group project for deep learning, replication for "Universal Language Model Fine-
 - [x] Gather resources and set up repo (Week of April 20)
 - [ ] Milestone 2 (Week of April 27)
 - [ ] Milestone 3 (Week of May 4)
+- [ ] Content Ready by May 10
 - [ ] Milestone 4 (Week of May 11)
   - [ ] Class Presentation on May 13th
 - [ ] Milestone 5 (Week of May 18)
 - [ ] Milestone 6 (Week of May 25)
 - [ ] Milestone 7 (Week of June 1)
 
+## Presentation
+* Intro and related work (Victor)
+* General domain LM pretraining (Unnati)
+* Target task LM fine-tuning (Victor) —> discriminative fine-tuning, slanted triangular learning rates
+* Target task classifier fine-tuning” (Jack) —> concat pooling, gradual unfreezing
+* Experiments + Results (Jack)
+  * sentiment analysis
+  * question classification
+  * topic classification
+* Analysis
+  * Low shot learning & impact of pretraining (Unnati)
+  * impact of LM fine-tuning (Victor)
+  * impact of classifier fine-tuning (Jack)
+  * classifier fine-tuning behavior & impact of bidirectionality  (Unnati)
+* Discussion & future work & final remarks (Victor)
 
 ## Resources
 * FastAI's ULMFiT website: http://nlp.fast.ai/category/classification.html
