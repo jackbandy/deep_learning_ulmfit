@@ -20,6 +20,10 @@ Group project for deep learning, replication for "Universal Language Model Fine-
 - [ ] Milestone 5 (Week of May 18)
 - [ ] Milestone 6 (Week of May 25)
 - [ ] Milestone 7 (Week of June 1)
+- [ ] Final
+  - [ ] Create one self-contained notebook
+  - [ ] Organize notebook according to "tricks" in the paper
+  - [ ] Add code for fine-tuning on custom data
 
 ## Presentation
 * Intro and related work (Victor)
